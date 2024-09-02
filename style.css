@@ -1,0 +1,218 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  font-family: "Young Serif", serif;
+  background-color:#62aca3;
+    }
+
+ .container{
+  padding: 50px;
+}
+    .section-one{
+      background-color:#ABF0D1;
+      color:rgb(29, 76, 67);
+      border-radius: 10px;
+      padding:20px;
+
+    }
+    .section-one__contact{
+      background-color:#01203F;
+      color:#ABF0D1;
+      text-decoration:none;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top:2px;
+      padding-bottom:2px;
+      display:inline-block;
+      margin-top:10px;
+      border-radius: 10px;
+      
+      
+      }
+    .section-one__name{
+        font-size:50px;
+    }  
+    .section-one__role{
+      font-size:30px;
+      margin:10px;
+      color:#046fd2;
+    }
+    .section-two{
+      background-color:#ABF0D1;
+      
+      margin: 20px;
+      margin-left:3px;
+      margin-right:3px;
+      padding:20px;
+      border-radius:10px;
+      
+    }
+    .section-two__about{
+      color:#01203F;
+      text-decoration: underline;
+
+    }
+    .section-two__desc{
+      padding-top:10px;
+
+    }
+
+    .section-five{
+      background-color:#ABF0D1;
+      padding:10px;
+      margin-left:3px;
+      border-radius:20px;
+      margin-top: 0px;
+      
+    }
+    .section-five__title{
+      color:#01203F;
+      text-decoration:underline
+    }
+    .section-three li,.section-four li{
+      list-style:none;
+    }
+
+    .section-three{
+      background-color: #ABF0D1;
+      padding: 20px;
+      display:inline-block;
+     border-radius:20px;
+     margin-left: 3px;
+     vertical-align:top;
+     height:200px;
+     margin-right: 10px;
+     
+      }
+      .section-three__title{
+        color:#01203F;
+        text-decoration:underline;
+        
+          }
+          .section-three__desc{
+            padding-top:20px;
+          }
+    
+    
+      .section-four{
+        background-color: #ABF0D1;
+        padding: 20px;
+        display:inline-block;
+       border-radius:20px;
+       margin-bottom: 20px;
+       margin-left: 3px;
+       vertical-align:top;
+       height:200px;
+       
+         
+           }
+           .section-four__title{
+            padding:10px;
+            color:#01203F;
+            text-decoration:underline;
+            vertical-align:top;
+           }
+           .section-four__desc{
+            padding:10px;
+          
+            }
+
+     /* Contact Form        */
+    *{
+      margin:0px;
+      padding:0px;
+      
+    }
+     .contact-form{
+      padding:50px;
+     }
+     .sec-one{
+      background-color:#ABF0D1;
+      color:rgb(29, 76, 67);
+      border-radius: 10px;
+      padding:20px;
+    }
+    
+    .sec-one__name{
+      font-size:50px;
+  }  
+  .sec-one__role{
+    font-size:30px;
+    margin:10px;
+    color:#046fd2;
+  }
+  .sec-one__home{
+    background-color:#01203F;
+    color:#ABF0D1;
+    text-decoration:none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:2px;
+    padding-bottom:2px;
+    display:inline-block;
+    margin-top:10px;
+    border-radius: 10px;
+    }
+  
+    .form{
+      margin-top:20px;
+    }
+     .form__name,.form__textarea,.form__submit{
+      margin-top:10px;
+     }
+
+     .form__name{
+      padding:10px;
+      border:none;
+      border-bottom: solid 1px;
+      background-color: transparent;
+     }
+
+     .form__textarea{
+      padding:10px;
+      background-color: transparent;
+      
+      border: solid 1px;
+     }
+     .form__bg{
+      background-color:#ABF0D1;
+      padding:20px;
+      border-radius: 10px;
+     }
+     .form__submit{
+      background-color:#01203F;
+    color:#ABF0D1;
+    text-decoration:none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    display:inline-block;
+    margin-top:10px;
+    border-radius: 10px;
+     }
+
+     .last{
+      background-color:#ABF0D1;
+      padding:10px;
+      margin-left:3px;
+      border-radius:10px;
+      margin-top: 0px;
+     }
+
+     .last__name{
+      color:#01203F;
+      font-size:20px;
+     }
+    
+
+
+  
+
+            
+
+  
+  
+    
