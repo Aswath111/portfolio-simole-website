@@ -14,7 +14,7 @@ Welcome to my portfolio website! This is a personal project I created to showcas
 
 ## How to View the Portfolio
 
-You can view the live version of my portfolio [here](#). Feel Free to explore the content and get in touch
+You can view the live version of my portfolio https://aswath111.github.io/portfolio-simple-website/. Feel Free to explore the content and get in touch
 
 ## Feedback
 
